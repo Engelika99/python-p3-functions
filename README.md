@@ -250,7 +250,8 @@ value from a function in Python.
 Let's take a look:
 
 ```py
-def stylish_painter():
+
+``` def stylish_painter():
     best_hairstyle = "Bob Ross"
     return "Jean-Michel Basquiat"
     return best_hairstyle
@@ -258,7 +259,6 @@ def stylish_painter():
 
 stylish_painter()
 ```
-
 What do you expect the return value of the above method to be? Go into the
 Python shell, copy and paste the above method and call it.
 
